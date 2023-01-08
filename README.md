@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gauravsinghlm@15gmail.com**
 
-- 👨‍💻 All of my projects are available at [Portfolio](randomfrisby.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://randomfrisby.github.io/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fXF7eqw4s6tCaaaZ4wfYOAomwofW7Vau/view?usp=share_link)
 
