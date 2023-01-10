@@ -29,7 +29,7 @@
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=randomFrisby&show_icons=true&theme=nightowl)
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomFrisby&layout=compact)](https://github.com/randomFrisby/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomFrisby&layout=compact&theme=nightowl)](https://github.com/randomFrisby/github-readme-stats)
 
 
 
