@@ -27,7 +27,7 @@
 
  ## Github Stats ✨
 
-![GitHub Streak](https://streak-stats.demolab.com?user=randomFrisby&theme=nightowl)]  ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=randomFrisby&show_icons=true&theme=nightowl)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomFrisby&layout=compact&hide_border=false&theme=nightowl)
+![GitHub Streak](https://streak-stats.demolab.com?user=randomFrisby&theme=nightowl)  ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=randomFrisby&show_icons=true&theme=nightowl)  <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomFrisby&layout=compact&hide_border=false&theme=nightowl)
 
 
 
